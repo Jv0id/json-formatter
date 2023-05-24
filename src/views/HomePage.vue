@@ -57,7 +57,7 @@ function copyJson() {
     <div class="title">
       <div><span style=" color:#41B883;font-size: 3.5rem;">J</span>{{ local.title }}</div>
       <div>
-        <a href="https://github.com/bluesky335/json-formatter">
+        <a href="https://github.com/Jv0id/json-formatter">
           <img
             src="/src/assets/github.svg"
             alt="github"
